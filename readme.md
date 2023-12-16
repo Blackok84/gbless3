@@ -1,3 +1,3 @@
 `3 lesson`
 
-## pull for github
+## push for github
